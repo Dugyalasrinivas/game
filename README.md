@@ -1,2 +1,0 @@
-# game
-its a game.
